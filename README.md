@@ -11,5 +11,6 @@ ReactNativeIMC é um simples projeto de calculadora de IMC feito em ReactNative.
 
 ## 🔨 Rode no seu computador
 
-- Clone este repositório : `git clone https://github.com/dnsgusttavo/ReactNativeIMC.git`;
+- Clone este repositório: `git clone https://github.com/dnsgusttavo/ReactNativeIMC.git`;
+- Instale as dependencias: `yarn install`;
 - Inicie o ReactNative: `react-native run-android` ou `react-native run-ios`;
